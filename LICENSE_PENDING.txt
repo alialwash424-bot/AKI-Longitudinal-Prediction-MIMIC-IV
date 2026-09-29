@@ -1,5 +1,0 @@
-License not yet selected.
-
-A software license will be selected by the authors before formal repository
-release. Until a license is selected, no additional permission should be
-inferred beyond applicable copyright law.
